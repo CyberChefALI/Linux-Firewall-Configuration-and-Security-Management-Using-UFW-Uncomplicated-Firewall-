@@ -55,5 +55,8 @@ Allowing HTTP traffic in UFW opens TCP port 80 so incoming web traffic can reach
 
 <img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 19_11_2026 15_50_09" src="https://github.com/user-attachments/assets/0163e94a-066e-451f-9873-49a2111408c5" />
 
+## Project Conclusion
 
+This project provided practical knowledge of configuring and managing the UFW firewall in Linux. It demonstrated how to control network traffic, manage port access, monitor firewall activity, and block unauthorized connections. Overall, the project improved understanding of Linux firewall management and fundamental network security practices.
 
+## PROJECT CREATED BY   -   CYBERCHEFALI
