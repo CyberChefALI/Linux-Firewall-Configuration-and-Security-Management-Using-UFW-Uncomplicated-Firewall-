@@ -14,6 +14,14 @@ Kali Linux
 
 ## PROCESS
 
-## STEP - 1  	UFW Installation
+## STEP - 1  UFW Installation
 
- UFW installation is the process of adding the Uncomplicated Firewall package to a Linux system, enabling it as a persistent host-level firewall service, and applying initial access rules (such as allowing SSH) so network traffic is filtered automatically across reboots.<img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 14_11_2026 10_15_03" src="https://github.com/user-attachments/assets/096ad350-ea5a-4f9a-b80b-c63d15f3716a" />
+ UFW installation is the process of adding the Uncomplicated Firewall package to a Linux system, enabling it as a persistent host-level firewall service, and applying initial access rules (such as allowing SSH) so network traffic is filtered automatically across reboots.
+ 
+ <img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 14_11_2026 10_15_03" src="https://github.com/user-attachments/assets/096ad350-ea5a-4f9a-b80b-c63d15f3716a" />
+
+## STEP - 2  Check firewall status
+
+Checking firewall status means verifying whether your firewall is active or inactive and viewing the rules currently controlling network traffic.
+
+<img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 14_11_2026 10_16_57" src="https://github.com/user-attachments/assets/c01e89c4-eef9-46fb-a76c-2162e793a260" />
