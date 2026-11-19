@@ -25,3 +25,31 @@ Kali Linux
 Checking firewall status means verifying whether your firewall is active or inactive and viewing the rules currently controlling network traffic.
 
 <img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 14_11_2026 10_16_57" src="https://github.com/user-attachments/assets/c01e89c4-eef9-46fb-a76c-2162e793a260" />
+
+## STEP - 3  	Enable & Disable firewall
+
+Enabling and disabling the firewall turns active packet filtering on or off on your system—typically while keeping your saved rules intact for future use.
+
+<img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 19_11_2026 13_53_26" src="https://github.com/user-attachments/assets/4e46ecab-97f3-4c77-a604-fa6db8a3cd09" 
+ <img width="1920" height="991" alt="ubantu  Running  - Oracle VirtualBox 19_11_2026 13_53_05" src="https://github.com/user-attachments/assets/b043fa1c-4349-4fee-b999-16da605906c6" />
+
+## STEP - 4  	Allow SSH traffic
+
+Allowing SSH traffic in UFW opens port 22/tcp (or a custom SSH port) so remote connections can reach your host when the firewall is active.
+
+<img width="1920" height="991" alt="ChatGPT Classic 19_11_2026 13_58_00" src="https://github.com/user-attachments/assets/f7e80815-ce47-4267-bb9f-596b8184a9c1" />
+
+## STEP - 5  	Block Telnet traffic
+
+Blocking Telnet traffic in UFW closes TCP port 23 ( standard unencrypted Telnet port) so incoming or outgoing Telnet connection attempts are stopped by the firewall.
+<img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 19_11_2026 13_58_25" src="https://github.com/user-attachments/assets/ed109363-4a8e-44f8-b855-2537ff767fc3" />
+
+## STEP - 6  	Allow HTTP traffic 
+
+COMMAND PROMPT - sudo ufw allow 80
+
+Allowing HTTP traffic in UFW opens TCP port 80 so incoming web traffic can reach your server.
+![Uploading kali-linux-2026.1-virtualbox-amd64 [Running] - Oracle VirtualBox 19_11_2026 15_50_09.png…]()
+
+
+
