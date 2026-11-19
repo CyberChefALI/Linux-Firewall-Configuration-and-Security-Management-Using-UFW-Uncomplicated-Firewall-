@@ -30,8 +30,11 @@ Checking firewall status means verifying whether your firewall is active or inac
 
 Enabling and disabling the firewall turns active packet filtering on or off on your system—typically while keeping your saved rules intact for future use.
 
-<img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 19_11_2026 13_53_26" src="https://github.com/user-attachments/assets/4e46ecab-97f3-4c77-a604-fa6db8a3cd09" 
- <img width="1920" height="991" alt="ubantu  Running  - Oracle VirtualBox 19_11_2026 13_53_05" src="https://github.com/user-attachments/assets/b043fa1c-4349-4fee-b999-16da605906c6" />
+<img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 19_11_2026 13_53_26" src="https://github.com/user-attachments/assets/2c32190d-251f-444a-b852-aa674fcf99d3" /> 
+
+<img width="1920" height="991" alt="Captures - File Explorer 14_11_2026 10_23_49" src="https://github.com/user-attachments/assets/0b120610-e2b4-4077-add6-bbec0645f469" />
+
+
 
 ## STEP - 4  	Allow SSH traffic
 
