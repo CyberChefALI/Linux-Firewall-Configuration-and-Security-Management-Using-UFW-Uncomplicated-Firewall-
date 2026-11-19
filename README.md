@@ -37,7 +37,8 @@ Enabling and disabling the firewall turns active packet filtering on or off on y
 
 Allowing SSH traffic in UFW opens port 22/tcp (or a custom SSH port) so remote connections can reach your host when the firewall is active.
 
-<img width="1920" height="991" alt="ChatGPT Classic 19_11_2026 13_58_00" src="https://github.com/user-attachments/assets/f7e80815-ce47-4267-bb9f-596b8184a9c1" />
+<img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 19_11_2026 13_53_26" src="https://github.com/user-attachments/assets/a843403f-42ba-465b-ba9b-3a82872a7c78" />
+<img width="1920" height="991" alt="ubantu  Running  - Oracle VirtualBox 19_11_2026 13_53_05" src="https://github.com/user-attachments/assets/2bf9af09-6a89-45f5-8325-6e29297be999" />
 
 ## STEP - 5  	Block Telnet traffic
 
@@ -46,10 +47,9 @@ Blocking Telnet traffic in UFW closes TCP port 23 ( standard unencrypted Telnet 
 
 ## STEP - 6  	Allow HTTP traffic 
 
-COMMAND PROMPT - sudo ufw allow 80
-
 Allowing HTTP traffic in UFW opens TCP port 80 so incoming web traffic can reach your server.
-![Uploading kali-linux-2026.1-virtualbox-amd64 [Running] - Oracle VirtualBox 19_11_2026 15_50_09.png…]()
+
+<img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 19_11_2026 15_50_09" src="https://github.com/user-attachments/assets/0163e94a-066e-451f-9873-49a2111408c5" />
 
 
 
