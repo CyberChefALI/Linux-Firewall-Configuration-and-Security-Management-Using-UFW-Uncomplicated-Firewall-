@@ -32,7 +32,8 @@ Enabling and disabling the firewall turns active packet filtering on or off on y
 
 <img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 19_11_2026 13_53_26" src="https://github.com/user-attachments/assets/2c32190d-251f-444a-b852-aa674fcf99d3" /> 
 
-<img width="1920" height="991" alt="Captures - File Explorer 14_11_2026 10_23_49" src="https://github.com/user-attachments/assets/0b120610-e2b4-4077-add6-bbec0645f469" />
+<img width="1920" height="991" alt="ubantu  Running  - Oracle VirtualBox 19_11_2026 13_53_05" src="https://github.com/user-attachments/assets/89ae216f-10e4-4aa3-92fd-b86a60eff129" />
+
 
 
 
@@ -40,8 +41,8 @@ Enabling and disabling the firewall turns active packet filtering on or off on y
 
 Allowing SSH traffic in UFW opens port 22/tcp (or a custom SSH port) so remote connections can reach your host when the firewall is active.
 
-<img width="1920" height="991" alt="kali-linux-2026 1-virtualbox-amd64  Running  - Oracle VirtualBox 19_11_2026 13_53_26" src="https://github.com/user-attachments/assets/a843403f-42ba-465b-ba9b-3a82872a7c78" />
-<img width="1920" height="991" alt="ubantu  Running  - Oracle VirtualBox 19_11_2026 13_53_05" src="https://github.com/user-attachments/assets/2bf9af09-6a89-45f5-8325-6e29297be999" />
+<img width="1920" height="991" alt="ChatGPT Classic 19_11_2026 13_58_00" src="https://github.com/user-attachments/assets/bc8238e8-c709-481b-a3a9-687f641e0d0d" />
+
 
 ## STEP - 5  	Block Telnet traffic
 
